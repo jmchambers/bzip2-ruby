@@ -8,4 +8,3 @@ pkg
 .bundle
 tmp
 Gemfile.lock
-.project
